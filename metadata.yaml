@@ -1,5 +1,5 @@
 _repo: Thus-Spake-Zarathustra--A-Book-for-All-and-None_1998
-_version: 0.1.1
+_version: 0.2.0
 alternative_title: Also sprach Zarathustra. English
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     gutenberg_agent_id: '5123'
     url: http://www.gutenberg.org/2009/agents/5123
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Common
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/779
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1998#Thus-Spake-Zarathustra--A-Book-for-All-and-None
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '1999-12-01'
 gutenberg_type: Text
